@@ -1,4 +1,5 @@
 #coding=utf-8
+#!/usr/bin/python3.6
 from  __future__ import print_function
 from random import choices
 from matplotlib import pyplot as plt
